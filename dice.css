@@ -1,0 +1,15 @@
+ table {
+    border-collapse: collapse;
+ }
+
+ th {
+    border: solid;
+    border-color: #006969;
+    background-color: #98d9d9;
+}
+
+ td {
+    border: solid;
+    border-color: #006969;
+    background-color: #d9fafa;
+}
